@@ -1,0 +1,10 @@
+com/assessment/app/dto/ItemDto.class
+com/assessment/app/response/PointsResponse.class
+com/assessment/app/service/ReceiptProcessorService.class
+com/assessment/app/controller/ReceiptProcessorController.class
+com/assessment/app/response/ProcessIdResponse.class
+com/assessment/app/dto/ReceiptDto.class
+com/assessment/app/model/Receipt.class
+com/assessment/app/service/impl/ReceiptProcessorServiceImpl.class
+com/assessment/app/model/Item.class
+com/assessment/app/ReceiptProcessorApplication.class
